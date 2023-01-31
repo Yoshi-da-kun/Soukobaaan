@@ -9,3 +9,5 @@
  変数名の不適切な単語(null等)を変更
 
  一部処理を見やすいように整理(FielsData.cs 64行目)
+
+https://github.com/Yoshi-da-kun/Soukobaaan.git

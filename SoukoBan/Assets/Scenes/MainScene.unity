@@ -656,10 +656,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _fieldData: {fileID: 2035899019}
   _playerObj: {fileID: 1648619147}
-  _playerInisialPos: {x: 1, y: 1}
+  _playerInitialPos: {x: 1, y: 1}
   _boxObj: {fileID: 2159985346323629582, guid: 4ffa7470a87224a4c9e44370e070eccf, type: 3}
-  _boxInisialPos:
-  - {x: 3, y: 2}
+  _boxInitialPos:
+  - {x: 3, y: 3}
   - {x: 4, y: 2}
   _boxGoalObj: {fileID: 2686346688142468352, guid: 5a10cd54cffd5c14fbf4e441d0de0af5, type: 3}
   _boxGoalPos:
@@ -860,7 +860,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _blockSquaresObj: {fileID: 5597940573901297113, guid: c7c6163e6d13772428c415e3bf879643, type: 3}
-  _nullSquaresObj: {fileID: 8950122168903634370, guid: eda3407c383ed8843a1c90b1e4f4c325, type: 3}
+  _emptySquaresObj: {fileID: 8950122168903634370, guid: eda3407c383ed8843a1c90b1e4f4c325, type: 3}
   _inputFieldData: '10
 
     1,8,1
